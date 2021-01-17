@@ -1,0 +1,87 @@
+body{
+text-align:center;
+  background:linear-gradient(#4073f5 0%, #90CAF9 100%);
+background-repeat:no-repeat;
+}
+p{
+font-size:15px;
+}
+#thecoder{
+height:200px;
+border-radius:50%;
+}
+#bio{
+padding:30px;
+font-size:20;
+text-align:center;
+font-family:cursive;
+}
+h1{
+text-shadow:2px 2px #075eba;
+font-family:cursive;
+font-size:20;
+}
+.menu{
+    list-style: none;
+    font-family:cursive;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    color:black;
+}
+html{
+scroll-behavior: smooth;
+}
+#aboutme{
+font-family: 'Slabo 27px', serif;
+}
+#image1{
+height:200px;
+}
+#image2{
+height:300px;
+}
+#p1{
+font-size:20px;
+}
+.infobar{
+font-size:20px;
+} 
+#thatguywhocreatedrblx{
+height:300px;
+transition: transform .2s;
+border: 10px solid #9bbacc;
+transform:scale(1);
+}
+#thatguywhocreatedrblx:hover{
+transform:scale(0.9);
+border-color:#0889d4;
+}
+li {
+  display: inline;
+  background-color:beige;
+  border-style:solid;
+  border-color:beige;
+  border-width:5px;
+}
+li:hover{
+border-color:royalblue;
+}
+#anchor{
+color:darkblue;
+text-shadow:none !important;
+}
+.contact_1 a{
+color:black;
+text-shadow:none;
+}
+.contact_1 h3{
+display:inline;
+}
+#mymails{
+height:10px;
+}
+#myinstas{
+height:15px;
+}
